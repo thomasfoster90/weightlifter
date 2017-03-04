@@ -7,11 +7,12 @@ class Legs extends Component {
       <div className="Legs">
         <h1>Legs</h1>
         <ul>
-          <li>1</li>
-          <li>2</li>
-          <li>3</li>
-          <li>4</li>
-          <li>5</li>
+          <li>1. Leg Extensions </li>
+          <li>2. Seated Leg Curl </li>
+          <li>3. Front Barbell Squat </li>
+          <li>4. Barbell Full Squat </li>
+          <li>5. Barbell Hack Squat </li>
+          <li>6. Trap Bar Deadlift </li>
         </ul>
       </div>
     );

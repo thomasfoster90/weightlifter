@@ -7,11 +7,12 @@ class Core extends Component {
       <div className="Core">
         <h1>Core</h1>
         <ul>
-          <li>1</li>
-          <li>2</li>
-          <li>3</li>
-          <li>4</li>
-          <li>5</li>
+          <li>1. The Side Crunch </li>
+          <li>2. Opposite Arm and Leg Raise </li>
+          <li>3. The Prone Plank </li>
+          <li>4. Squat Thrust with Twist </li>
+          <li>5. The Climb Up </li>
+          <li>6. The Cobra </li>
         </ul>
       </div>
     );
